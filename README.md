@@ -4,7 +4,8 @@
 
 inorder to view the full notebook please copy paste this link https://github.com/sashank24/NASA-Turbofan-Predictive-Maintenance/tree/main/notebook in this [nbviewer.jupyter.org](https://nbviewer.jupyter.org/) website and click the file with the '.ipynb' extension and wait for it to render (takes about 10 seconds) 
 
-* created a model which can be used as a tool that estimates the RUL(remaining useful life) of an engine with an **Accuracy of 98%**
+* created a model which can be used as a tool that estimates the RUL(remaining useful life) of an engine.
+* Achieved an **ACCURACY OF 98%**
 * This model predicts the RUL of an engine and Outputs the value 1 or 0 
 * '1' meaning that the engine is nearing its repair time, Hence it needs a check and '0' meaning safe to proceed
 * Features Engineered from the Cycle and generated new variable to label the engine 
@@ -17,3 +18,14 @@ inorder to view the full notebook please copy paste this link https://github.com
 ** Packages:** pandas, numpy, seaborn, matplotlib, plotly, sklearn, lightgbm, xgboost, pickle
 
 ** Link for the dataset -> [NASA_Turbofan_RUL_Dataset](https://www.kaggle.com/darkside92/turbofan-predictive-maintenance-nasa)
+
+## Why a solution based on *Machine Learning* is needed for predictive maintenance of heavy machinery?
+
+Major Advantages on incorporating Machine Learning in Predective maintenance are:
+
+*         Can cut Cost by a huge margin
+*         Safety purposes (Varies according to the field in use)
+*         Saves Time 
+*         Repair cost is considerably reduced
+*         Better planning of Machine usage
+*         Prevents major damages to Machine
