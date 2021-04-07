@@ -23,7 +23,7 @@ inorder to view the full notebook please click this -> [Notebook](https://nbview
 ** Packages:** pandas, numpy, seaborn, matplotlib, plotly, sklearn, lightgbm, xgboost, pickle
 
 ** Link for the dataset -> [NASA_Turbofan_RUL_Dataset](https://www.kaggle.com/darkside92/turbofan-predictive-maintenance-nasa)
-** Original Data provided by NASA
+(*Original Data provided by NASA*)
 
 ## Why a solution based on *Machine Learning* is needed for predictive maintenance of heavy machinery?
 
