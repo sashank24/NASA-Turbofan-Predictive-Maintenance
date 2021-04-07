@@ -14,6 +14,7 @@ inorder to view the full notebook please click this -> [Notebook](https://nbview
 * Visualized Advanced graphs and traces using plotly
 * Used lightgbm and xgboost libraries for efficient model building
 * Used RandomizedSearchCV to optimize the classification models hypertuned the parameters to get the best-fitting model
+* The pickled model can be used by anyone, it can be found **in the model directory of the main branch**
 
 ## Description of code and resources used in this project
 ** Python version:** 3.8
