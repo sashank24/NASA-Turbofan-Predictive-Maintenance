@@ -8,7 +8,7 @@ inorder to view the full notebook please click this -> [Notebook](https://nbview
 
 *if the above method doesn't work TRY THIS* -> copy paste this link https://github.com/sashank24/NASA-Turbofan-Predictive-Maintenance/tree/main/notebook in this [nbviewer.jupyter.org](https://nbviewer.jupyter.org/) website and click the file with the '.ipynb' extension and wait for it to render (takes about 10 seconds) 
 
-* created a model which can be used as a tool that estimates the RUL(remaining useful life) of an engine.
+* created a model which can be used as a tool that estimates the RUL(remaining useful life) of NASA's Turbofan.
 * Achieved an **ACCURACY OF 98%**
 * This model predicts the RUL of an engine and Outputs the value 1 or 0 
 * '1' meaning that the engine is nearing its repair time, Hence it needs a check and '0' meaning safe to proceed
@@ -23,6 +23,7 @@ inorder to view the full notebook please click this -> [Notebook](https://nbview
 ** Packages:** pandas, numpy, seaborn, matplotlib, plotly, sklearn, lightgbm, xgboost, pickle
 
 ** Link for the dataset -> [NASA_Turbofan_RUL_Dataset](https://www.kaggle.com/darkside92/turbofan-predictive-maintenance-nasa)
+** Original Data provided by NASA
 
 ## Why a solution based on *Machine Learning* is needed for predictive maintenance of heavy machinery?
 
