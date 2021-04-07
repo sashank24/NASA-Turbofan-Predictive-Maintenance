@@ -2,7 +2,7 @@
 
 **🔑 KEY NOTE: please read this**
 
-*some graphs in the notebook are not rendered by Github since the frame amount exceeded*
+*sometimes the notebook is not rendered by Github since the frame amount exceeded due to bugs*
 
 inorder to view the full notebook please click this -> [Notebook](https://nbviewer.jupyter.org/github/sashank24/NASA-Turbofan-Predictive-Maintenance/blob/main/notebook/NASA_Turbo_Engine_RUL.ipynb) (📍wait for it load...)
 
